@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0198-house-robber](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0198-house-robber) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/rajkishans883/Leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2498-frog-jump-ii](https://github.com/rajkishans883/Leetcode-solutions/tree/master/2498-frog-jump-ii) |
 | [3161-block-placement-queries](https://github.com/rajkishans883/Leetcode-solutions/tree/master/3161-block-placement-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/rajkishans883/Leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -45,5 +46,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/rajkishans883/Leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2498-frog-jump-ii](https://github.com/rajkishans883/Leetcode-solutions/tree/master/2498-frog-jump-ii) |
+## Sorting
+|  |
+| ------- |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/rajkishans883/Leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 <!---LeetCode Topics End-->
