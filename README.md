@@ -60,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/rajkishans883/Leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+## Database
+|  |
+| ------- |
+| [1527-patients-with-a-condition](https://github.com/rajkishans883/Leetcode-solutions/tree/master/1527-patients-with-a-condition) |
 <!---LeetCode Topics End-->
