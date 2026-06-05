@@ -63,5 +63,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0197-rising-temperature) |
 | [1527-patients-with-a-condition](https://github.com/rajkishans883/Leetcode-solutions/tree/master/1527-patients-with-a-condition) |
 <!---LeetCode Topics End-->
