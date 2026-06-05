@@ -1,12 +1,4 @@
 # Write your MySQL query statement below
-with dummy_table as (
-select e.*,
-    LAG(recorddate)over(order by recorddate) as prev_date,
-    LAG(temperature) over(order by recorddate )as prev_temp
-from weather e
 
-)
-select p.id from dummy_table p
-where p.temperature>p.prev_temp
-and p.recorddate= prev_date + interval 1 day;
-;
+select w1.id from weather w1 , weather w2 where
+ datediff (w1.recordDate ,w2.recordDate)=1 and w1.temperature>w2.temperature;
