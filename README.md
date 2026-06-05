@@ -22,11 +22,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/rajkishans883/Leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/rajkishans883/Leetcode-solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0198-house-robber) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/rajkishans883/Leetcode-solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Memoization
 |  |
 | ------- |
