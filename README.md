@@ -20,12 +20,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/rajkishans883/Leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/rajkishans883/Leetcode-solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0198-house-robber) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/rajkishans883/Leetcode-solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0180-consecutive-numbers](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0180-consecutive-numbers) |
 | [0197-rising-temperature](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0197-rising-temperature) |
 | [1527-patients-with-a-condition](https://github.com/rajkishans883/Leetcode-solutions/tree/master/1527-patients-with-a-condition) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
