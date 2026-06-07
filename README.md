@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0177-nth-highest-salary](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0177-nth-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0180-consecutive-numbers) |
 | [0197-rising-temperature](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0197-rising-temperature) |
 | [1527-patients-with-a-condition](https://github.com/rajkishans883/Leetcode-solutions/tree/master/1527-patients-with-a-condition) |
