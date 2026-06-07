@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0198-house-robber) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/rajkishans883/Leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/rajkishans883/Leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2498-frog-jump-ii](https://github.com/rajkishans883/Leetcode-solutions/tree/master/2498-frog-jump-ii) |
 | [3161-block-placement-queries](https://github.com/rajkishans883/Leetcode-solutions/tree/master/3161-block-placement-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/rajkishans883/Leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0001-two-sum) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/rajkishans883/Leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Math
 |  |
 | ------- |
@@ -86,4 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
+## Tree
+|  |
+| ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/rajkishans883/Leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
+## Binary Tree
+|  |
+| ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/rajkishans883/Leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
