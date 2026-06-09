@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rajkishans883/Leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/rajkishans883/Leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rajkishans883/Leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/rajkishans883/Leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rajkishans883/Leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/rajkishans883/Leetcode-solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Memoization
 |  |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rajkishans883/Leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2498-frog-jump-ii](https://github.com/rajkishans883/Leetcode-solutions/tree/master/2498-frog-jump-ii) |
 | [3161-block-placement-queries](https://github.com/rajkishans883/Leetcode-solutions/tree/master/3161-block-placement-queries) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/rajkishans883/Leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -69,11 +72,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rajkishans883/Leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/rajkishans883/Leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/rajkishans883/Leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Two Pointers
 |  |
 | ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rajkishans883/Leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rajkishans883/Leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/rajkishans883/Leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Database
@@ -104,4 +109,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rajkishans883/Leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rajkishans883/Leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Ordered Set
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rajkishans883/Leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Bitmask
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rajkishans883/Leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
