@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rajkishans883/Leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rajkishans883/Leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/rajkishans883/Leetcode-solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -141,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/rajkishans883/Leetcode-solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
