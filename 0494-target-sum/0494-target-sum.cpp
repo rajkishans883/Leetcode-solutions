@@ -37,6 +37,6 @@ public:
         int req = (totalSumOfArray + target) / 2;
 
         return totalSum(nums, n - 1, req, dp);
-        return countSumWays;
+       
     }
 };
