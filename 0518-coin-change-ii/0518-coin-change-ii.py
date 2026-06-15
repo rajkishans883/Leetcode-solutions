@@ -16,9 +16,19 @@ class Solution:
 
     def change(self, amount: int, coins: List[int]) -> int:
         n=len(coins)
-        dp = [[-1] * (amount + 1) for _ in range(n)]
-        answer=self.count_ways(coins,amount,dp,n-1)
-        return answer
+        dp = [[0] * (amount + 1) for _ in range(n)]
+        
+        for i in range(n):
+            dp[i][0]=1
 
+        for i in range(n):
+            for j in range(amount+1):
+                nottake=dp[i-1][j]
+                take=0
+                if coins[i]<=j:
+                    take=dp[i][j-coins[i]]
+                dp[i][j]=take+nottake   
+        result=dp[n-1][amount]
+        return result
 
         
