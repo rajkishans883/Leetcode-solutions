@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0180-consecutive-numbers](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0180-consecutive-numbers) |
 | [0197-rising-temperature](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0197-rising-temperature) |
 | [0596-classes-with-at-least-5-students](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0596-classes-with-at-least-5-students) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/rajkishans883/Leetcode-solutions/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1527-patients-with-a-condition](https://github.com/rajkishans883/Leetcode-solutions/tree/master/1527-patients-with-a-condition) |
 | [1729-find-followers-count](https://github.com/rajkishans883/Leetcode-solutions/tree/master/1729-find-followers-count) |
 ## Combinatorics
