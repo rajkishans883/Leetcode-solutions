@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0983-minimum-cost-for-tickets](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rajkishans883/Leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0516-longest-palindromic-subsequence](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [3612-process-string-with-special-operations-i](https://github.com/rajkishans883/Leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/rajkishans883/Leetcode-solutions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/rajkishans883/Leetcode-solutions/tree/master/3838-weighted-word-mapping) |
