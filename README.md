@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0518-coin-change-ii) |
+| [0583-delete-operation-for-two-strings](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0983-minimum-cost-for-tickets](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [1092-shortest-common-supersequence](https://github.com/rajkishans883/Leetcode-solutions/tree/master/1092-shortest-common-supersequence) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rajkishans883/Leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0516-longest-palindromic-subsequence](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
+| [0583-delete-operation-for-two-strings](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/rajkishans883/Leetcode-solutions/tree/master/1092-shortest-common-supersequence) |
 | [3612-process-string-with-special-operations-i](https://github.com/rajkishans883/Leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/rajkishans883/Leetcode-solutions/tree/master/3614-process-string-with-special-operations-ii) |
