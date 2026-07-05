@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0983-minimum-cost-for-tickets](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [1092-shortest-common-supersequence](https://github.com/rajkishans883/Leetcode-solutions/tree/master/1092-shortest-common-supersequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/rajkishans883/Leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rajkishans883/Leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/rajkishans883/Leetcode-solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Memoization
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/rajkishans883/Leetcode-solutions/tree/master/1092-shortest-common-supersequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/rajkishans883/Leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3612-process-string-with-special-operations-i](https://github.com/rajkishans883/Leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/rajkishans883/Leetcode-solutions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/rajkishans883/Leetcode-solutions/tree/master/3838-weighted-word-mapping) |
