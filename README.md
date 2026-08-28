@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0518-coin-change-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0983-minimum-cost-for-tickets](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rajkishans883/Leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/rajkishans883/Leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0983-minimum-cost-for-tickets](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [1092-shortest-common-supersequence](https://github.com/rajkishans883/Leetcode-solutions/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/rajkishans883/Leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/rajkishans883/Leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2498-frog-jump-ii](https://github.com/rajkishans883/Leetcode-solutions/tree/master/2498-frog-jump-ii) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/rajkishans883/Leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
