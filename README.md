@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0120-triangle) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0189-rotate-array](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0268-missing-number](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0268-missing-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/rajkishans883/Leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/rajkishans883/Leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0455-assign-cookies) |
