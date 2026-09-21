@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1796-second-largest-digit-in-a-string](https://github.com/rajkishans883/Leetcode-solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/rajkishans883/Leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Math
 |  |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/rajkishans883/Leetcode-solutions/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/rajkishans883/Leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1796-second-largest-digit-in-a-string](https://github.com/rajkishans883/Leetcode-solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/rajkishans883/Leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/rajkishans883/Leetcode-solutions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/rajkishans883/Leetcode-solutions/tree/master/3838-weighted-word-mapping) |
