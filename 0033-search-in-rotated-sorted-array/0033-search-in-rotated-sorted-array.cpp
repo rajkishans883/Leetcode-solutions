@@ -25,6 +25,7 @@ public:
                 }
                 else{
                     r=mid-1;
+                    
                 }
             }
         }
