@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0063-unique-paths-ii](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0120-triangle) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
@@ -216,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
