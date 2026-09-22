@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0912-sort-an-array](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0983-minimum-cost-for-tickets](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rajkishans883/Leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/rajkishans883/Leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0912-sort-an-array](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0912-sort-an-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rajkishans883/Leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/rajkishans883/Leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/rajkishans883/Leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0912-sort-an-array) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/rajkishans883/Leetcode-solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Depth-First Search
 |  |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -271,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0912-sort-an-array](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Quicksort
 |  |
 | ------- |
@@ -279,4 +284,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0075-sort-colors) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
