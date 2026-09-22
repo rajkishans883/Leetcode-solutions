@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
+| [0200-number-of-islands](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0200-number-of-islands) |
 ## Tree
 |  |
 | ------- |
@@ -208,10 +210,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/rajkishans883/Leetcode-solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0322-coin-change) |
 ## String
 |  |
@@ -319,4 +323,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/rajkishans883/Leetcode-solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
